@@ -1,4 +1,4 @@
-######################################### Ensemble Techniques Assignment Submission ##############################################
+######################################### Ensemble Techniques ##############################################
 """
 
 Please ensure you update all the details:
@@ -7,7 +7,7 @@ Name:        CH Pavan kumar
 
 Batch Id:    15 Sep 2023
 
-Topic:       Ensemble Techniques Assignment
+Topic:       Ensemble Techniques.
 
 """
 
